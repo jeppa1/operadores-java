@@ -36,7 +36,6 @@ Geralmente as primeiras palavaras que ouvimos em um curso de programação são:
 |                  | `>>`         | Deslocamento à direita                        | `a >> 2`              |
 |                  | `>>>`        | Deslocamento à direita sem sinal              | `a >>> 2`             |
 
-Obs: para os exemplos de barra vertical, substituir NaN por barra vertical.
 
 
 Esta tabela inclui os operadores mais comuns utilizados em Java, organizados por tipo de operadores.
